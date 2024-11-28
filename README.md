@@ -1,7 +1,7 @@
 
 # Git Study Notes: A Personal Guide to Git
 
-A Git Learning Log
+AGLL : A Git Learning Log
 
 ## What is Git?
 
