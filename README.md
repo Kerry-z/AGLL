@@ -1,5 +1,3 @@
-
-# Git Study Notes: A Personal Guide to Git
 # Git Study Notes: A Personal Guide to Git
 
 AGLL : A Git Learning Log
