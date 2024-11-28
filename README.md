@@ -10,10 +10,7 @@ Git is a version control system that is used to track changes in code. It is a d
 ## How to use Git?
 
 1. Install Git on your computer.
-2. Create a new repository on your computer.
-3. Add files to the repository.
-4. Commit changes to the repository.
-5. Push changes to a remote repository (such as GitHub).
-6. Pull changes from a remote repository.
-
-## What are some common Git commands?
+2. Create a new repository on your computer. This can be done by running the command `mkdir <Create Your Directory>` and `git init` in the terminal.
+3. Create a new file in the repository and add it to the staging area. This can be done by running the command `git add <File Name>` in the terminal.
+4. Commit the changes to the repository. This can be done by running the command `git commit -m "Commit Message"` in the terminal.
+5. Push the changes to the remote repository. This can be done by running the command `git push origin master` in the terminal.
