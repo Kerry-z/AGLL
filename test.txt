@@ -1,1 +1,1 @@
-rm text
+rm test.txt
