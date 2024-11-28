@@ -1,7 +1,7 @@
 
-# First Day to formally learn Git
+# Git Study Notes: A Personal Guide to Git
 
-Actually it is the second time, since I did it in my second year of college during my undergraduate studying. But I forgot the details, so I decided to learn it again.
+A Git Learning Log
 
 ## What is Git?
 
