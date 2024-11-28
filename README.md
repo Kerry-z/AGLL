@@ -13,4 +13,4 @@ Git is a version control system that is used to track changes in code. It is a d
 2. Create a new repository on your computer. This can be done by running the command `mkdir <Create Your Directory>` and `git init` in the terminal.
 3. Create a new file in the repository and add it to the staging area. This can be done by running the command `git add <File Name>` in the terminal.
 4. Commit the changes to the repository. This can be done by running the command `git commit -m "Commit Message"` in the terminal.
-5. Push the changes to the remote repository. This can be done by running the command `git push origin master` in the terminal.
+5. 
