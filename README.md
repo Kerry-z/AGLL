@@ -1,7 +1,7 @@
 
 # First Day to formal Git
 
-(actually second time, since I did it in my first year of college)
+(actually second time, since I did it in my second year of college)
 
 ## What is Git?
 
