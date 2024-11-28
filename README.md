@@ -21,7 +21,7 @@ Git is a version control system that is used to track changes in code. It is a *
 10. Use `git push` to push the changes to the remote repository.
 11. Use `git pull` to pull the changes from the remote repository.
 12. Use `git clone` + `<Repository URL>` to clone the repository from the remote server.
-13. Use `git remote` to list all the remote repositories. 
+13. Use `git remote` to list all the remote repositories.
     - Use `git remote` + `-v` to list all the remote repositories with their URL.
     - Use `git remote` + `add` + `<Remote Name>` + `<Repository URL>` to add a new remote repository.
     - Use `git remote` + `rm` + `<Remote Name>` to remove a remote repository.
