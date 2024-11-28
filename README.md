@@ -1,5 +1,5 @@
 
-# First Day to formal Git
+# First Day to formally learn Git
 
 (actually second time, since I did it in my second year of college)
 
